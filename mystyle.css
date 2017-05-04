@@ -1,0 +1,65 @@
+body{
+    background-color: LemonChiffon;
+    color: FireBrick;
+}
+
+table {
+    border-color: FireBrick;
+    border-style: solid;
+    border-width: 1pt;
+    border-spacing: 10pt;
+
+}
+
+
+}
+
+h1 {
+    font-size: 60pt;
+    font-weight: bold;
+}
+
+a{
+  padding-top: 5px;
+  padding-left: 10px;
+  padding-bottom: 5px;
+  color: pink;
+  font-weight: bold;
+  font-size: 20px;
+  font-family: "Comic Sans MS";
+  background-color: black;
+  padding-right: 10px;
+}
+a:hover{
+  background-color: blue;
+}
+
+table {
+  background-color: #142642;
+}
+
+td .field{
+  font-weight: bold;
+  text-align: center;
+  font-size: 16px;
+}
+
+td .field:hover{
+  color: lightblue;
+}
+
+td {
+  padding-left: 15px;
+  padding-top: 5px;
+  padding-right: 15px;
+  text-align: center;
+  color: white;
+  font-size: 14px;
+}
+#Login {
+	 position: absolute;
+	 left: 30%;
+	 top: 10%;
+	 
+	 
+}
